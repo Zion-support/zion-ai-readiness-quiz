@@ -1,10 +1,17 @@
-# Zion AI Readiness Quiz
+# Zion AI Readiness Quiz — Zion App Network
 
-Interactive assessment that scores your company's AI readiness.
+Zion AI Readiness Quiz — interactive assessment that scores your company's AI readiness. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) · [ai-readiness-score](https://github.com/Zion-support/ai-readiness-score) · [zion-data-readiness-audit](https://github.com/Zion-support/zion-data-readiness-audit) · [ai-assessment-engine](https://github.com/Zion-support/ai-assessment-engine)
+- 🔗 Live app: [https://aireadiness.ziontechgroup.com](https://aireadiness.ziontechgroup.com)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [AI Readiness Assessment](https://github.com/Zion-support/ai-readiness-assessment) — scored AI maturity questionnaire
+- [AI ROI Calculator](https://github.com/Zion-support/ai-roi-calculator) — estimate payback, NPV and TCO
+- [Zion AI Governance](https://github.com/Zion-support/zion-ai-governance) — EU AI Act readiness
+- [Tech Stack Recommender](https://github.com/Zion-support/tech-stack-recommender) — suggested architecture in 6 questions
+- [Managed IT Health Check](https://github.com/Zion-support/managed-it-health-check) — infrastructure self-assessment
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
